@@ -83,6 +83,7 @@ The fine-tuning was done on A100 2 epochs 32 batch-size
      sadness       0.63      0.56      0.59       406
     surprise       0.57      0.58      0.58       723
 
-    accuracy                           0.685      6329
+    accuracy       0.61      0.59      0.685      6329
+    macro avg     0.619      0.59      0.604      6329
 
 ![alt text](/assets/fine_tune.png)
